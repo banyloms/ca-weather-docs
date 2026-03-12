@@ -1,0 +1,1 @@
+California weather documentation project for UC Berkeley meteorology course. This repository contains weather alerts, forecasts, and safety information.
